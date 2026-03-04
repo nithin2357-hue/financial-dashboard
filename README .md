@@ -14,7 +14,7 @@ A production-style **Extract, Transform, Load (ETL)** pipeline that fetches **li
 
 ## 🚀 Live Dashboard
 
-> **[▶ Open Live Dashboard](https://nithin2357-hue-financial-dashboard.streamlit.app)**
+> **[▶ Open Live Dashboard](https://financial-dashboard-x4j23lncxudjkiync5zrvv.streamlit.app)**
 
 Interactive dashboard built with Streamlit + Plotly — runs the full ETL pipeline live and visualizes all outputs in real time.
 
